@@ -10,8 +10,8 @@ The analysis has been performed in terms of Probablity,Hypothesis testing and Lo
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org/)
+- [numPy](http://www.numpy.org/)
+- [pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [matplotlib](http://matplotlib.org/)
 - [patsy](https://pypi.org/project/patsy/)
